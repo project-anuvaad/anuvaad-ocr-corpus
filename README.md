@@ -1,5 +1,5 @@
 # Anuvaad Parallel Corpus
-This repository contains parallel language corpus links for popular Indian languages developed as part of the [Anuvaad project](http://anuvaad.org).
+This repository contains corpus links for popular Indian languages developed as part of the [Anuvaad project](http://anuvaad.org).
 >
 Please reach out to nlp-nmt@tarento.com for any clarification/interpretation/usage of the linked datasets.
 
