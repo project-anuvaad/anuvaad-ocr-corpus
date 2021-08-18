@@ -17,8 +17,8 @@ This work is licensed under a
 
 ## Status
 The current status of the ocr corpus built :
-[comment]: <> ### (~ 18 million pairs & is growing everyday!)
-Language | Corpus Count  |
+#[//]: # "Comment (~ 18 million pairs & is growing everyday!)"
+anguage | Corpus Count  |
 :---------------- | -----------------: |
 Hindi     | | 
 Bengali   | |
@@ -41,7 +41,7 @@ This can be eventually used to train the ML models based on the use cases.
 >
 Read more about Anuvaad @ http://anuvaad.org/
 >
-[comment]: <> The code for building the below mentioned datasets are available under https://github.com/project-anuvaad/anuvaad-corpus-tools
+[//]: # "Comment The code for building the below mentioned datasets are available under https://github.com/project-anuvaad/anuvaad-corpus-tools"
 >
 >
 ## Links
