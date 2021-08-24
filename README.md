@@ -46,72 +46,72 @@ Read more about Anuvaad @ http://anuvaad.org/
 ## Links
 ###  `Hindi`
 
-Domain | Source | Year  | En-Hi pairs count | Corpus Download Link |
+Domain | Source | Year  | Sentence count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
 Educational |NCERT | NA  | | |
 
 
 ### `Bengali`
 
-Domain | Source | Year  | En-Bn pairs count | Corpus Download Link |
+Domain | Source | Year  | Sentence count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
 
 
 ### `Tamil`
 
-Domain | Source | Year  | En-Ta pairs count | Corpus Download Link |
+Domain | Source | Year  | Sentence count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
 
 
 ### `Malayalam`
 
-Domain | Source | Year  | En-Ml pairs count | Corpus Download Link |
+Domain | Source | Year  | Sentence count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
 
 
 ### `Telugu`
 
-Domain | Source | Year  | En-Te pairs count | Corpus Download Link |
+Domain | Source | Year  | Sentence count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
 
 
 ### `Kannada`
 
-Domain | Source | Year  | En-Kn pairs count | Corpus Download Link |
+Domain | Source | Year  | Sentence count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
 
 
 ### `Marathi`
 
-Domain | Source | Year  | En-Mr pairs count | Corpus Download Link |
+Domain | Source | Year  | Sentence count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
 
 
 ### `Punjabi`
 
-Domain | Source | Year  | En-Pa pairs count | Corpus Download Link |
+Domain | Source | Year  | Sentence count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
 
 
 ### `Gujarati`
 
-Domain | Source | Year  | En-Gu pairs count | Corpus Download Link |
+Domain | Source | Year  | Sentence count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
 
 
 ### `Assamese`
 
-Domain | Source | Year  | En-As pairs count | Corpus Download Link |
+Domain | Source | Year  | Sentence count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
 
 
 ### `Urdu`
 
-Domain | Source | Year  | En-Ur pairs count | Corpus Download Link |
+Domain | Source | Year  | Sentence count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
 
 
 ### `Odia`
 
-Domain | Source | Year  | En-Or pairs count | Corpus Download Link |
+Domain | Source | Year  | Sentence count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
