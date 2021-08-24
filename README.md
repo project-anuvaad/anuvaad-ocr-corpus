@@ -17,8 +17,7 @@ This work is licensed under a
 
 ## Status
 The current status of the ocr corpus built :
-#[//]: # "Comment (~ 18 million pairs & is growing everyday!)"
-anguage | Corpus Count  |
+language | Corpus Count  |
 :---------------- | -----------------: |
 Hindi     | | 
 Bengali   | |
