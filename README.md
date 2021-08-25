@@ -48,7 +48,11 @@ Read more about Anuvaad @ http://anuvaad.org/
 
 Domain | Source | Sentence count | Corpus Download Link |
 :--- |:--- | :---: | :--- |
-Educational |NCERT | NA  |[Class-1](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/NCERT_Class-1_English.zip)  |
+Educational |NCERT | NA  |[Class-1](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/NCERT_Class-1_English.zip)<br>[Class-2](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/NCERT_Class-2_English.zip) <br>[Class-3](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/NCERT_Class-3_English.zip)<br>[Class-4](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/NCERT_Class-4_English.zip)<br>[Class-5](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/NCERT_Class-5_English.zip) <br>[Class-6](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/NCERT_Class-6_English.zip) <br>[Class-7](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/NCERT_Class-7_English.zip) <br>[Class-8](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/NCERT_Class-8_English.zip) <br>[Class-9](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/NCERT_Class-9_English.zip) 
+
+
+
+
 
 ###  `Hindi`
 
