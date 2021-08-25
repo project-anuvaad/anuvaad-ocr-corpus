@@ -47,8 +47,8 @@ Read more about Anuvaad @ http://anuvaad.org/
 ###  `English`
 
 Domain | Source | Sentence count | Corpus Download Link |
-:--- |:--- | :---: | :---: | :--- |
-Educational |NCERT | NA  | | |
+:--- |:--- | :---: | :--- |
+Educational |NCERT | NA  |[Class-1](https://anuvaad-parallel-corpus.s3-us-west-2.amazonaws.com/NCERT_Class-1_English.zip)  |
 
 ###  `Hindi`
 
