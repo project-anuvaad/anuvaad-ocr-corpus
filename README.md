@@ -44,74 +44,80 @@ Read more about Anuvaad @ http://anuvaad.org/
 >
 >
 ## Links
+###  `English`
+
+Domain | Source | Sentence count | Corpus Download Link |
+:--- |:--- | :---: | :---: | :--- |
+Educational |NCERT | NA  | | |
+
 ###  `Hindi`
 
-Domain | Source | Year  | Sentence count | Corpus Download Link |
+Domain | Source | Sentence count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
 Educational |NCERT | NA  | | |
 
 
 ### `Bengali`
 
-Domain | Source | Year  | Sentence count | Corpus Download Link |
+Domain | Source | Sentence count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
 
 
 ### `Tamil`
 
-Domain | Source | Year  | Sentence count | Corpus Download Link |
+Domain | Source | Sentence count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
 
 
 ### `Malayalam`
 
-Domain | Source | Year  | Sentence count | Corpus Download Link |
+Domain | Source | Sentence count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
 
 
 ### `Telugu`
 
-Domain | Source | Year  | Sentence count | Corpus Download Link |
+Domain | Source | Sentence count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
 
 
 ### `Kannada`
 
-Domain | Source | Year  | Sentence count | Corpus Download Link |
+Domain | Source | Sentence count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
 
 
 ### `Marathi`
 
-Domain | Source | Year  | Sentence count | Corpus Download Link |
+Domain | Source | Sentence count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
 
 
 ### `Punjabi`
 
-Domain | Source | Year  | Sentence count | Corpus Download Link |
+Domain | Source | Sentence count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
 
 
 ### `Gujarati`
 
-Domain | Source | Year  | Sentence count | Corpus Download Link |
+Domain | Source | Sentence count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
 
 
 ### `Assamese`
 
-Domain | Source | Year  | Sentence count | Corpus Download Link |
+Domain | Source | Sentence count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
 
 
 ### `Urdu`
 
-Domain | Source | Year  | Sentence count | Corpus Download Link |
+Domain | Source | Sentence count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
 
 
 ### `Odia`
 
-Domain | Source | Year  | Sentence count | Corpus Download Link |
+Domain | Source | Sentence count | Corpus Download Link |
 :--- |:--- | :---: | :---: | :--- |
