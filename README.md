@@ -53,71 +53,71 @@ Educational |NCERT | NA  | | |
 ###  `Hindi`
 
 Domain | Source | Sentence count | Corpus Download Link |
-:--- |:--- | :---: | :---: | :--- |
-Educational |NCERT | NA  | | |
+:--- |:--- | :---: | :--- |
+Educational |NCERT | NA  | |
 
 
 ### `Bengali`
 
 Domain | Source | Sentence count | Corpus Download Link |
-:--- |:--- | :---: | :---: | :--- |
+:--- |:--- | :---: | :--- |
 
 
 ### `Tamil`
 
 Domain | Source | Sentence count | Corpus Download Link |
-:--- |:--- | :---: | :---: | :--- |
+:--- |:--- | :---: | :--- |
 
 
 ### `Malayalam`
 
 Domain | Source | Sentence count | Corpus Download Link |
-:--- |:--- | :---: | :---: | :--- |
+:--- |:--- | :---: | :--- |
 
 
 ### `Telugu`
 
 Domain | Source | Sentence count | Corpus Download Link |
-:--- |:--- | :---: | :---: | :--- |
+:--- |:--- | :---: | :--- |
 
 
 ### `Kannada`
 
 Domain | Source | Sentence count | Corpus Download Link |
-:--- |:--- | :---: | :---: | :--- |
+:--- |:--- | :---: | :--- |
 
 
 ### `Marathi`
 
 Domain | Source | Sentence count | Corpus Download Link |
-:--- |:--- | :---: | :---: | :--- |
+:--- |:--- | :---: | :--- |
 
 
 ### `Punjabi`
 
 Domain | Source | Sentence count | Corpus Download Link |
-:--- |:--- | :---: | :---: | :--- |
+:--- |:--- | :---: | :--- |
 
 
 ### `Gujarati`
 
 Domain | Source | Sentence count | Corpus Download Link |
-:--- |:--- | :---: | :---: | :--- |
+:--- |:--- | :---: | :--- |
 
 
 ### `Assamese`
 
 Domain | Source | Sentence count | Corpus Download Link |
-:--- |:--- | :---: | :---: | :--- |
+:--- |:--- | :---: | :--- |
 
 
 ### `Urdu`
 
 Domain | Source | Sentence count | Corpus Download Link |
-:--- |:--- | :---: | :---: | :--- |
+:--- |:--- | :---: | :--- |
 
 
 ### `Odia`
 
 Domain | Source | Sentence count | Corpus Download Link |
-:--- |:--- | :---: | :---: | :--- |
+:--- |:--- | :---: | :--- |
