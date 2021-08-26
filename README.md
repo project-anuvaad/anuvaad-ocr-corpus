@@ -48,8 +48,9 @@ Read more about Anuvaad @ http://anuvaad.org/
 
 Domain | Source | Sentence count | Corpus Download Link |
 :--- |:--- | :---: | :--- |
-Educational |NCERT | 2,03,000 |[Class-1](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-1_English.zip)<br>[Class-2](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-2_English.zip) <br>[Class-3](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-3_English.zip)<br>[Class-4](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-4_English.zip)<br>[Class-5](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-5_English.zip) <br>[Class-6](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-6_English.zip) <br>[Class-7](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-7_English.zip) <br>[Class-8](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-8_English.zip) <br>[Class-9](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-9_English.zip) <br>[Class-10](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-10_English.zip)<br>[Class-11](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-11_English.zip)<br>[Class-12](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-12_English.zip)
-
+Educational | [NCERT](https://ncert.nic.in/textbook.php) | 2,03,000 |[Class-1](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-1_English.zip)<br>[Class-2](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-2_English.zip) <br>[Class-3](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-3_English.zip)<br>[Class-4](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-4_English.zip)<br>[Class-5](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-5_English.zip) <br>[Class-6](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-6_English.zip) <br>[Class-7](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-7_English.zip) <br>[Class-8](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-8_English.zip) <br>[Class-9](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-9_English.zip) <br>[Class-10](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-10_English.zip)<br>[Class-11](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-11_English.zip)<br>[Class-12](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-12_English.zip)
+Educational | [ebalbharti](https://cart.ebalbharati.in/BalBooks/ebook.aspx) | | [Class-1](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-1_English.zip)<br>[Class-2](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-2_English.zip) <br>[Class-3](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-3_English.zip)<br>[Class-4](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-4_English.zip)<br>[Class-5](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-5_English.zip) <br>[Class-6](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-6_English.zip) <br>[Class-7](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-7_English.zip) <br>[Class-8](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-8_English.zip) <br>[Class-9](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-9_English.zip) <br>[Class-10](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-10_English.zip)<br>[Class-11](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-11_English.zip)<br>[Class-12](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-12_English.zip)
+|
 
 
 
@@ -58,68 +59,65 @@ Educational |NCERT | 2,03,000 |[Class-1](https://anuvaad-raw-datasets.s3-us-west
 
 Domain | Source | Sentence count | Corpus Download Link |
 :--- |:--- | :---: | :--- |
-Educational |NCERT | 2,19,000 |[Class-1](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-1_Hindi.zip)<br>[Class-2](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-2_Hindi.zip) <br>[Class-3](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-3_Hindi.zip)<br>[Class-4](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-4_Hindi.zip)<br>[Class-5](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-5_Hindi.zip) <br>[Class-6](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-6_Hindi.zip) <br>[Class-7](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-7_Hindi.zip) <br>[Class-8](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-8_Hindi.zip) <br>[Class-9](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-9_Hindi.zip) <br>[Class-10](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-10_Hindi.zip)<br>[Class-11](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-11_Hindi.zip)<br>[Class-12](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-12_Hindi.zip)
+Educational | [NCERT](https://ncert.nic.in/textbook.php) | 2,19,000 |[Class-1](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-1_Hindi.zip)<br>[Class-2](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-2_Hindi.zip) <br>[Class-3](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-3_Hindi.zip)<br>[Class-4](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-4_Hindi.zip)<br>[Class-5](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-5_Hindi.zip) <br>[Class-6](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-6_Hindi.zip) <br>[Class-7](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-7_Hindi.zip) <br>[Class-8](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-8_Hindi.zip) <br>[Class-9](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-9_Hindi.zip) <br>[Class-10](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-10_Hindi.zip)<br>[Class-11](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-11_Hindi.zip)<br>[Class-12](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-12_Hindi.zip)
+Educational | [ebalbharti](https://cart.ebalbharati.in/BalBooks/ebook.aspx) | | [Class-1](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-1_Hindi.zip)<br>[Class-2](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-2_Hindi.zip) <br>[Class-3](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-3_Hindi.zip)<br>[Class-4](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-4_Hindi.zip)<br>[Class-5](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-5_Hindi.zip) <br>[Class-6](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-6_Hindi.zip) <br>[Class-7](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-7_Hindi.zip) <br>[Class-8](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-8_Hindi.zip) <br>[Class-9](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-9_Hindi.zip) <br>[Class-10](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-10_Hindi.zip)<br>[Class-11](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-11_Hindi.zip)<br>[Class-12](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-12_Hindi.zip)
+
 
 
 ### `Bengali`
 
 Domain | Source | Sentence count | Corpus Download Link |
 :--- |:--- | :---: | :--- |
-
+Educational | [ebalbharti](https://cart.ebalbharati.in/BalBooks/ebook.aspx) | | [Class-1](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-1_Bengali.zip)<br>[Class-2](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-2_Bengali.zip) <br>[Class-3](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-3_Bengali.zip)<br>[Class-4](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-4_Bengali.zip)
 
 ### `Tamil`
 
 Domain | Source | Sentence count | Corpus Download Link |
 :--- |:--- | :---: | :--- |
 
-
 ### `Malayalam`
 
 Domain | Source | Sentence count | Corpus Download Link |
 :--- |:--- | :---: | :--- |
 
-
 ### `Telugu`
 
 Domain | Source | Sentence count | Corpus Download Link |
 :--- |:--- | :---: | :--- |
-
+Educational | [ebalbharti](https://cart.ebalbharati.in/BalBooks/ebook.aspx) | | [Class-1](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-1_Telugu.zip)<br>[Class-2](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-2_Telugu.zip) <br>[Class-3](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-3_Telugu.zip)<br>[Class-4](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-4_Telugu.zip)<br>[Class-5](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-5_Telugu.zip) <br>[Class-6](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-6_Telugu.zip) <br>[Class-7](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-7_Telugu.zip) <br>[Class-8](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-8_Telugu.zip) <br>[Class-9](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-9_Telugu.zip) <br>[Class-10](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-10_Telugu.zip)<br>[Class-11](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-11_Telugu.zip)<br>[Class-12](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-12_Telugu.zip)
 
 ### `Kannada`
 
 Domain | Source | Sentence count | Corpus Download Link |
 :--- |:--- | :---: | :--- |
-
+Educational | [ebalbharti](https://cart.ebalbharati.in/BalBooks/ebook.aspx) | | [Class-1](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-1_Kannada.zip)<br>[Class-2](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-2_Kannada.zip) <br>[Class-3](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-3_Kannada.zip)<br>[Class-4](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-4_Kannada.zip)<br>[Class-5](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-5_Kannada.zip) <br>[Class-6](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-6_Kannada.zip) <br>[Class-7](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-7_Kannada.zip) <br>[Class-8](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-8_Kannada.zip) <br>[Class-9](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-9_Kannada.zip) <br>[Class-10](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-10_Kannada.zip)<br>[Class-11](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-11_Kannada.zip)<br>[Class-12](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-12_Kannada.zip)
 
 ### `Marathi`
 
 Domain | Source | Sentence count | Corpus Download Link |
 :--- |:--- | :---: | :--- |
-
+Educational | [ebalbharti](https://cart.ebalbharati.in/BalBooks/ebook.aspx) | | [Class-1](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-1_Marathi.zip)<br>[Class-2](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-2_Marathi.zip) <br>[Class-3](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-3_Marathi.zip)<br>[Class-4](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-4_Marathi.zip)<br>[Class-5](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-5_Marathi.zip) <br>[Class-6](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-6_Marathi.zip) <br>[Class-7](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-7_Marathi.zip) <br>[Class-8](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-8_Marathi.zip) <br>[Class-9](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-9_Marathi.zip) <br>[Class-10](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-10_Marathi.zip)<br>[Class-11](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-11_Marathi.zip)<br>[Class-12](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-12_Marathi.zip)
 
 ### `Punjabi`
 
 Domain | Source | Sentence count | Corpus Download Link |
 :--- |:--- | :---: | :--- |
 
-
 ### `Gujarati`
 
 Domain | Source | Sentence count | Corpus Download Link |
 :--- |:--- | :---: | :--- |
-
+Educational | [ebalbharti](https://cart.ebalbharati.in/BalBooks/ebook.aspx) | | [Class-1](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-1_Gujarati.zip)<br>[Class-2](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-2_Gujarati.zip) <br>[Class-3](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-3_Gujarati.zip)<br>[Class-4](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-4_Gujarati.zip)<br>[Class-5](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-5_Gujarati.zip) <br>[Class-6](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-6_Gujarati.zip) <br>[Class-7](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-7_Gujarati.zip) <br>[Class-8](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-8_Gujarati.zip) <br>[Class-9](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-9_Gujarati.zip) <br>[Class-10](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-10_Gujarati.zip)<br>[Class-11](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-11_Gujarati.zip)<br>[Class-12](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-12_Gujarati.zip)
 
 ### `Assamese`
 
 Domain | Source | Sentence count | Corpus Download Link |
 :--- |:--- | :---: | :--- |
 
-
 ### `Urdu`
 
 Domain | Source | Sentence count | Corpus Download Link |
 :--- |:--- | :---: | :--- |
-
 
 ### `Odia`
 
