@@ -19,18 +19,18 @@ This work is licensed under a
 The current status of the ocr corpus built :
 language | Corpus Count  |
 :---------------- | -----------------: |
-Hindi     | | 
-Bengali   | |
-Tamil     | |
-Malayalam | |
-Telugu    | |
-Kannada   | |
-Marathi   | |
-Punjabi   | |
-Gujarati  | |
-Assamese  | |
-Urdu      | |
-Odia      | |
+Hindi     | to be Updated | 
+Bengali   | to be Updated |
+Tamil     | to be Updated |
+Malayalam | to be Updated |
+Telugu    | to be Updated |
+Kannada   | to be Updated |
+Marathi   | to be Updated |
+Punjabi   | to be Updated |
+Gujarati  | to be Updated |
+Assamese  | to be Updated |
+Urdu      | to be Updated |
+Odia      | to be Updated |
 
 
 
@@ -61,19 +61,22 @@ Domain | Source | Sentence count | Corpus Download Link |
 :--- |:--- | :---: | :--- |
 Educational | [NCERT](https://ncert.nic.in/textbook.php) | 2,19,000 |[Class-1](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-1_Hindi.zip)<br>[Class-2](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-2_Hindi.zip) <br>[Class-3](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-3_Hindi.zip)<br>[Class-4](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-4_Hindi.zip)<br>[Class-5](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-5_Hindi.zip) <br>[Class-6](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-6_Hindi.zip) <br>[Class-7](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-7_Hindi.zip) <br>[Class-8](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-8_Hindi.zip) <br>[Class-9](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-9_Hindi.zip) <br>[Class-10](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-10_Hindi.zip)<br>[Class-11](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-11_Hindi.zip)<br>[Class-12](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NCERT_Class-12_Hindi.zip)
 Educational | [ebalbharti](https://cart.ebalbharati.in/BalBooks/ebook.aspx) | 61,500 | [Class-1](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-1_Hindi.zip)<br>[Class-2](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-2_Hindi.zip) <br>[Class-3](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-3_Hindi.zip)<br>[Class-4](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-4_Hindi.zip)<br>[Class-5](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-5_Hindi.zip) <br>[Class-6](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-6_Hindi.zip) <br>[Class-7](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-7_Hindi.zip) <br>[Class-8](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-8_Hindi.zip) <br>[Class-9](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-9_Hindi.zip) <br>[Class-10](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-10_Hindi.zip)<br>[Class-11](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-11_Hindi.zip)<br>[Class-12](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-12_Hindi.zip)
-
+Educational | [NIOS-Diploma](https://nios.ac.in/dled/dledmed.aspx) | 31,500 | [All](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NIOS_Diploma_Hindi.zip) 
 
 
 ### `Bengali`
 
 Domain | Source | Sentence count | Corpus Download Link |
 :--- |:--- | :---: | :--- |
-Educational | [ebalbharti](https://cart.ebalbharati.in/BalBooks/ebook.aspx) | 9,200 | [Class-1](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-1_Bengali.zip)<br>[Class-2](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-2_Bengali.zip) <br>[Class-3](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-3_Bengali.zip)<br>[Class-4](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-4_Bengali.zip)
+Educational | [ebalbharti](https://cart.ebalbharati.in/BalBooks/ebook.aspx) | 17,200 | [Class-1](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-1_Bengali.zip)<br>[Class-2](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-2_Bengali.zip) <br>[Class-3](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-3_Bengali.zip)<br>[Class-4](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-4_Bengali.zip)<br>[Class-5](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-5_Bengali.zip) <br>[Class-11](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-11_Bengali.zip)<br>[Class-12](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-12_Bengali.zip)
+Educational | [NIOS-Diploma](https://nios.ac.in/dled/dledmed.aspx) | 29,800 | [All](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NIOS_Diploma_Bengali.zip) 
 
 ### `Tamil`
 
 Domain | Source | Sentence count | Corpus Download Link |
 :--- |:--- | :---: | :--- |
+Educational | [ebalbharti](https://cart.ebalbharati.in/BalBooks/ebook.aspx) | 10,800 | [Class-1](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-1_Tamil.zip)<br>[Class-2](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-2_Tamil.zip) <br>[Class-3](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-3_Tamil.zip)<br>[Class-4](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-4_Tamil.zip)
+Educational | [NIOS-Diploma](https://nios.ac.in/dled/dledmed.aspx) | 31,700 | [All](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NIOS_Diploma_Tamil.zip) 
 
 ### `Malayalam`
 
@@ -85,34 +88,40 @@ Domain | Source | Sentence count | Corpus Download Link |
 Domain | Source | Sentence count | Corpus Download Link |
 :--- |:--- | :---: | :--- |
 Educational | [ebalbharti](https://cart.ebalbharati.in/BalBooks/ebook.aspx) | 69,600 | [Class-1](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-1_Telugu.zip)<br>[Class-2](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-2_Telugu.zip) <br>[Class-3](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-3_Telugu.zip)<br>[Class-4](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-4_Telugu.zip)<br>[Class-5](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-5_Telugu.zip) <br>[Class-6](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-6_Telugu.zip) <br>[Class-7](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-7_Telugu.zip) <br>[Class-8](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-8_Telugu.zip) <br>[Class-9](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-9_Telugu.zip) <br>[Class-10](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-10_Telugu.zip)<br>[Class-11](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-11_Telugu.zip)<br>[Class-12](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-12_Telugu.zip)
+Educational | [NIOS-Diploma](https://nios.ac.in/dled/dledmed.aspx) | 29,800 | [All](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NIOS_Diploma_Telugu.zip) 
 
 ### `Kannada`
 
 Domain | Source | Sentence count | Corpus Download Link |
 :--- |:--- | :---: | :--- |
 Educational | [ebalbharti](https://cart.ebalbharati.in/BalBooks/ebook.aspx) | 61,600 | [Class-1](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-1_Kannada.zip)<br>[Class-2](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-2_Kannada.zip) <br>[Class-3](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-3_Kannada.zip)<br>[Class-4](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-4_Kannada.zip)<br>[Class-5](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-5_Kannada.zip) <br>[Class-6](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-6_Kannada.zip) <br>[Class-7](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-7_Kannada.zip) <br>[Class-8](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-8_Kannada.zip) <br>[Class-9](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-9_Kannada.zip) <br>[Class-10](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-10_Kannada.zip)<br>[Class-11](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-11_Kannada.zip)<br>[Class-12](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-12_Kannada.zip)
+Educational | [NIOS-Diploma](https://nios.ac.in/dled/dledmed.aspx) | 27,200 | [All](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NIOS_Diploma_Kannada.zip) 
 
 ### `Marathi`
 
 Domain | Source | Sentence count | Corpus Download Link |
 :--- |:--- | :---: | :--- |
 Educational | [ebalbharti](https://cart.ebalbharati.in/BalBooks/ebook.aspx) | 68,900 | [Class-1](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-1_Marathi.zip)<br>[Class-2](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-2_Marathi.zip) <br>[Class-3](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-3_Marathi.zip)<br>[Class-4](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-4_Marathi.zip)<br>[Class-5](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-5_Marathi.zip) <br>[Class-6](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-6_Marathi.zip) <br>[Class-7](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-7_Marathi.zip) <br>[Class-8](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-8_Marathi.zip) <br>[Class-9](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-9_Marathi.zip) <br>[Class-10](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-10_Marathi.zip)<br>[Class-11](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-11_Marathi.zip)<br>[Class-12](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-12_Marathi.zip)
+Educational | [NIOS-Diploma](https://nios.ac.in/dled/dledmed.aspx) | 26,100 | [All](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NIOS_Diploma_Marathi.zip) 
 
 ### `Punjabi`
 
 Domain | Source | Sentence count | Corpus Download Link |
 :--- |:--- | :---: | :--- |
+Educational | [NIOS-Diploma](https://nios.ac.in/dled/dledmed.aspx) | 18,900 | [All](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NIOS_Diploma_Punjabi.zip) 
 
 ### `Gujarati`
 
 Domain | Source | Sentence count | Corpus Download Link |
 :--- |:--- | :---: | :--- |
 Educational | [ebalbharti](https://cart.ebalbharati.in/BalBooks/ebook.aspx) |63,600 | [Class-1](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-1_Gujarati.zip)<br>[Class-2](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-2_Gujarati.zip) <br>[Class-3](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-3_Gujarati.zip)<br>[Class-4](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-4_Gujarati.zip)<br>[Class-5](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-5_Gujarati.zip) <br>[Class-6](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-6_Gujarati.zip) <br>[Class-7](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-7_Gujarati.zip) <br>[Class-8](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-8_Gujarati.zip) <br>[Class-9](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-9_Gujarati.zip) <br>[Class-10](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-10_Gujarati.zip)<br>[Class-11](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-11_Gujarati.zip)<br>[Class-12](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/ebalbharti_Class-12_Gujarati.zip)
+Educational | [NIOS-Diploma](https://nios.ac.in/dled/dledmed.aspx) | 36,400 | [All](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NIOS_Diploma_Gujarati.zip) 
 
 ### `Assamese`
 
 Domain | Source | Sentence count | Corpus Download Link |
 :--- |:--- | :---: | :--- |
+Educational | [NIOS-Diploma](https://nios.ac.in/dled/dledmed.aspx) | 27,400 | [All](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NIOS_Diploma_Assamese.zip) 
 
 ### `Urdu`
 
@@ -123,3 +132,4 @@ Domain | Source | Sentence count | Corpus Download Link |
 
 Domain | Source | Sentence count | Corpus Download Link |
 :--- |:--- | :---: | :--- |
+Educational | [NIOS-Diploma](https://nios.ac.in/dled/dledmed.aspx) | 27,400 | [All](https://anuvaad-raw-datasets.s3-us-west-2.amazonaws.com/NIOS_Diploma_Odia.zip) 
