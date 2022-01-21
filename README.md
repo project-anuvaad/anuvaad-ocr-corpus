@@ -19,18 +19,18 @@ This work is licensed under a
 The current status of the ocr corpus built :
 language | Corpus Count  |
 :---------------- | -----------------: |
-Hindi     | to be Updated | 
-Bengali   | to be Updated |
-Tamil     | to be Updated |
-Malayalam | to be Updated |
-Telugu    | to be Updated |
-Kannada   | to be Updated |
-Marathi   | to be Updated |
-Punjabi   | to be Updated |
-Gujarati  | to be Updated |
-Assamese  | to be Updated |
-Urdu      | to be Updated |
-Odia      | to be Updated |
+Hindi     | To be Updated | 
+Bengali   | To be Updated |
+Tamil     | To be Updated |
+Malayalam | To be Updated |
+Telugu    | To be Updated |
+Kannada   | To be Updated |
+Marathi   | To be Updated |
+Punjabi   | To be Updated |
+Gujarati  | To be Updated |
+Assamese  | To be Updated |
+Urdu      | To be Updated |
+Odia      | To be Updated |
 
 
 
