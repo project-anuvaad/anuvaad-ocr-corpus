@@ -16,23 +16,6 @@ This work is licensed under a
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
 ## Status
-The current status of the ocr corpus built :
-language | Corpus Count  |
-:---------------- | -----------------: |
-Hindi     | To be Updated | 
-Bengali   | To be Updated |
-Tamil     | To be Updated |
-Malayalam | To be Updated |
-Telugu    | To be Updated |
-Kannada   | To be Updated |
-Marathi   | To be Updated |
-Punjabi   | To be Updated |
-Gujarati  | To be Updated |
-Assamese  | To be Updated |
-Urdu      | To be Updated |
-Odia      | To be Updated |
-
-
 
 ## Goal
 The goal is to build high quality corpus extracted from pdfs for the Indian languages across various domains (General, Legal, Education, Healthcare, Automobile, News etc).
